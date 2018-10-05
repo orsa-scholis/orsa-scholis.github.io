@@ -1,5 +1,9 @@
 ## Orsa Scholis
 
-In this organisation Lukas Bischof and Philipp Fehr collected all their school projects.
+Än Website für eusi Schuelprojekt
+
+## Autorä
+- Lukas Bischof
+- Philipp Fehr
 
 
