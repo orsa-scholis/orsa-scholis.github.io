@@ -1,3 +1,7 @@
+---
+title: Orsa Scholis
+---
+
 ## Orsa Scholis
 
 Än Website für eusi Schuelprojekt
