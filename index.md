@@ -4,7 +4,7 @@ title: Orsa Scholis
 
 ## Orsa Scholis
 
-Än Website für eusi Schuelprojekt
+Än Website für eusi Schuelprojekt und anderi gemeinsami Bastlereie
 
 ## Autorä
 - Lukas Bischof
