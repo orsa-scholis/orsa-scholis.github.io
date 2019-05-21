@@ -4,7 +4,7 @@ title: Orsa Scholis
 
 ## Orsa Scholis
 
-Än Website für eusi ([@lukasbischof](https://github.com/lukasbischof), [@TheFehr](https://github.com/TheFehr)) Schuelprojekt und anderi gemeinsami Bastlereie
+Ä Website für eusi ([@lukasbischof](https://github.com/lukasbischof), [@TheFehr](https://github.com/TheFehr)) Schuelprojekt und anderi gemeinsami Bastlereie
 
 ## Autorä
 - Lukas Bischof [@lukasbischof](https://github.com/lukasbischof)
