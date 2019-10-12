@@ -9,7 +9,6 @@ title: Orsa Scholis
 ## Autorä
 - Lukas Bischof [@lukasbischof](https://github.com/lukasbischof)
 - Philipp Fehr [@TheFehr](https://github.com/TheFehr)
-- Niels Saurer [@skius](https://github.com/skius)
 
 ## Projekt
 {% for repository in site.github.public_repositories %}
